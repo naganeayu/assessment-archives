@@ -1,0 +1,17 @@
+Package: assessmentarchives
+Type: Book
+Title: The Carpentries Survey Archives
+Version: 0.0.1
+Imports:
+  clisymbols,
+  crayon,
+  digest,
+  dplyr,
+  glue,
+  httr,
+  jsonlite,
+  knitr,
+  kableExtra,
+  purrr,
+  readr,
+  tibble
