@@ -1,9 +1,9 @@
 name: CICD
 
 on:
-  - push:
-  - schedule:
-    - cron: '0 17 * * *'
+  push:
+  schedule:
+    - cron:  '0 17 * * *'
 
 jobs:
   build:
