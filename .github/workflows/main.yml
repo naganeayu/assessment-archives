@@ -30,9 +30,11 @@ jobs:
           Rscript -e "remotes::install_github('r-hub/sysreqs')"
           sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
           sudo -s eval "$sysreqs"
-      - name: Install Package Dependencies
+      - name: Install dependencies
         run: |
-          Rscript -e "remotes::install_deps(c, repos = 'https://demo.rstudiopm.com/all/__linux__/bionic/latest')"
+          Rscript \
+            -e "library(remotes)" \
+            -e "update(readRDS('depends.Rds'))"
       - name: Run Script For Pre-workshop survey
         run: |
           Rscript \
