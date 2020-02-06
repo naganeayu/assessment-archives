@@ -8,11 +8,21 @@ on:
 jobs:
   build:
     runs-on: ubuntu-18.04
-    container:
-      image: rstudio/r-base:3.6-bionic
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v1
+      - uses: r-lib/actions/setup-r@master
+      - name: Query dependencies
+        run: >
+          Rscript
+            -e "install.packages('remotes')"
+            -e "saveRDS(remotes::dev_package_deps(dependencies = TRUE), 'depends.Rds', version = 2)"
+      - name: Cache R packages
+        uses: actions/cache@v1
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-r-${{ hashFiles('depends.Rds') }}
+          restore-keys: ${{ runner.os }}-r-
       - name: Install System Dependencies
         run: |
           sudo apt-get update && apt-get install -y --no-install-recommends \
@@ -21,11 +31,14 @@ jobs:
           libcurl4-openssl-dev
       - name: Install Package Dependencies
         run: |-
-          Rscript -e "install.packages('remotes', repos = 'https://demo.rstudiopm.com/all/__linux__/bionic/latest')"
           Rscript -e "remotes::install_deps(c, repos = 'https://demo.rstudiopm.com/all/__linux__/bionic/latest')"
       - name: Run Script For Pre-workshop survey
-        run: |-
-          Rscript -e "source('typeform-archive.R'); cache_content(get_form('wi32rS'), 'pre-workshop')"
+        run: >
+          Rscript
+            -e "source('typeform-archive.R')"
+            -e "cache_content(get_form('wi32rS'), 'pre-workshop')"
       - name: Run Script for Post-workshop survey
-        run: |-
-          Rscript -e "source('typeform-archive.R'); cache_content(get_form('UgVdRQ'), 'post-workshop')"
+        run: >
+          Rscript
+            -e "source('typeform-archive.R')"
+            -e  "cache_content(get_form('UgVdRQ'), 'post-workshop')"
