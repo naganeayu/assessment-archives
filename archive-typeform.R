@@ -11,7 +11,14 @@ library(purrr)
 library(readr)
 library(tibble)
 
-
+##' Get Form from Typeform
+##'
+##' From a Typeform identifier, returns the JSON file provided by Typeform's
+##' API.
+##'
+##' @param form_id the form identifier
+##' @return JSON
+##' @export
 get_form <- function(form_id) {
   raw <- httr::GET(
     "https://api.typeform.com/",
@@ -30,22 +37,31 @@ get_form <- function(form_id) {
 
 }
 
+##' Extract Title from Survey
+##'
+##' @param tf the object returned by get_form()
+##' @return the title for the survey
+##' @export
 get_form_title <- function(tf) {
   tf$title
 }
 
+## Remove new lines from survey questions.
 process_field_title <- function(title) {
   gsub("\\n", " ", title)
 }
 
+## Create level 3 (or below) Markdown headers
 create_header_level <- function(level) {
   paste0(rep("#", level + 2), collapse = "")
 }
 
+## Extract whether the question is required in the survey
 is_required <- function(field) {
   dplyr::if_else(field$validations$required, "*", "")
 }
 
+## Build a table with the scale and its values
 build_scale <- function(field) {
 
   if (field$properties$start_at_one) {
@@ -76,11 +92,17 @@ build_scale <- function(field) {
     kableExtra::kable_styling(position = "center")
 }
 
+
+## Extract possible choices for survey questions
+## and turns them into an unordered Markdown list
 extract_multiple_choices <- function(field) {
   choices <- purrr::map_chr(field$properties$choices, "label")
   glue::glue_collapse(glue::glue("- {choices} "), sep = "\n")
 }
 
+
+## Extract questions and their possible answers (when appropriate) from the
+## survey.
 extract_question <- function(field, level = 1) {
 
   if (field$type == "group") {
@@ -152,6 +174,8 @@ extract_question <- function(field, level = 1) {
   }
 }
 
+
+## Extract the welcome screen
 extract_welcome <- function(tf) {
 
   res <- map_chr(tf$welcome_screens, "title") %>%
@@ -165,6 +189,7 @@ extract_welcome <- function(tf) {
 
 }
 
+## Extract the (first) thank you screen
 extract_thankyou <- function(tf) {
 
   res <- tf$thankyou_screens[[1]]$"title"
@@ -176,12 +201,16 @@ extract_thankyou <- function(tf) {
 
 }
 
+## Iterate over the JSON returned by get_form to extract the questions into
+## Markdown
 extract_questions <- function(tf) {
   purrr::map(tf$fields, extract_question) %>%
     purrr::flatten() %>%
     glue_collapse(sep = "\n\n")
 }
 
+
+## Main function: extract the content of the survey into a Markdown string
 extract_survey <- function(tf) {
 
   c(
@@ -193,6 +222,7 @@ extract_survey <- function(tf) {
 
 }
 
+## Generates a Markdown file from the content of the survey
 make_md_file <- function(tf, title, out) {
 
   cnt <- extract_survey(tf)
@@ -200,7 +230,7 @@ make_md_file <- function(tf, title, out) {
   f <- tempfile(fileext = ".md")
 
   cat("# ", title, "\n",
-    format(Sys.Date(), "%Y-%m-%d"), "\n",
+    format(Sys.Date(), "%Y-%m-%d"), "\n\n",
     "----------------\n\n",
     cnt,
     sep = "",
@@ -275,6 +305,18 @@ get_latest_hash <- function(survey, cache_path) {
 
 }
 
+
+##' Cache the content of the survey
+##'
+##' Create new archive for survey if the content has changed since the last time
+##' it was cached.
+##'
+##' @param tf object returned by `get_form`
+##' @param survey the short name for the survey
+##' @param title the full title for the survey
+##' @param cache_path where the cache for the survey is located
+##' @return
+##' @export
 cache_content <- function(tf, survey, title = get_form_title(tf),
                           cache_path = "cache") {
 
