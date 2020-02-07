@@ -123,13 +123,13 @@ generate_archive <- function(archive_data, survey_type, name) {
     glue::glue_collapse(sep = "\n")
 
   glue::glue("
-    ### { name }
+### { name }
 
-    - { current_version }
+  - { current_version }
 
-    #### Past versions
+#### Past versions
 
-    { list_archive }
+  { list_archive }
   ")
 }
 
@@ -149,7 +149,7 @@ generate_index <- function(archive_data, output) {
 
   intro <- glue::glue("# The Carpentries Survey Archives
 
-  _Last updated: { date }__
+  _Last updated: { date }_
 
   This website is an archive of the surveys used by The Carpentries.
 
