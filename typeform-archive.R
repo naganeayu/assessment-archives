@@ -312,13 +312,3 @@ cache_content <- function(tf, survey, title = get_form_title(tf),
     )
   }
 }
-
-if (FALSE) {
-
-  pre_tf <- get_form("wi32rS")
-  cache_content(pre_tf, "pre-workshop")
-
-  post_tf <- get_form("UgVdRQ")
-  cache_content(post_tf, "post-workshop")
-
-}
