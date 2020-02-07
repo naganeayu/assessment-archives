@@ -1,3 +1,5 @@
+![deploy-on-push-and-schedule](https://github.com/carpentries/assessment-archives/workflows/deploy-on-push-and-schedule/badge.svg)
+
 # The Carpentries Survey Archives
 
 The Carpentries uses surveys before and after workshops. This repository is an
