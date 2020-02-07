@@ -1,4 +1,4 @@
-name: CICD
+name: deploy-on-push-and-schedule
 
 on:
   push:
@@ -38,12 +38,12 @@ jobs:
       - name: Run Script For Pre-workshop survey
         run: |
           Rscript \
-            -e "source('typeform-archive.R')" \
+            -e "source('archive-typeform.R')" \
             -e "cache_content(get_form('wi32rS'), 'pre-workshop')"
       - name: Run Script for Post-workshop survey
         run: |
           Rscript \
-            -e "source('typeform-archive.R')" \
+            -e "source('archive-typeform.R')" \
             -e  "cache_content(get_form('UgVdRQ'), 'post-workshop')"
       - name: Move files to public folder for deployment
         run: |
