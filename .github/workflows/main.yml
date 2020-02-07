@@ -54,5 +54,5 @@ jobs:
         if: github.ref == 'refs/heads/master'
         uses: maxheld83/ghpages@v0.2.1
         env:
-           BUILD_DIR: "public/"
-            GH_PAT: ${{ secrets.GH_PAT }}
+           BUILD_DIR: public
+           GH_PAT: ${{ secrets.GH_PAT }}
