@@ -45,3 +45,14 @@ jobs:
           Rscript \
             -e "source('typeform-archive.R')" \
             -e  "cache_content(get_form('UgVdRQ'), 'post-workshop')"
+      - name: Move files to public folder for deployment
+        run: |
+          Rscript \
+          -e "source('build-website.R')" \
+          -e "generate_archive_website()"
+      - name: Deploy to ghpages
+        if: github.ref == 'refs/heads/master'
+        uses: maxheld83/ghpages@v0.2.1
+        env:
+           BUILD_DIR: "public/"
+            GH_PAT: ${{ secrets.GH_PAT }}
