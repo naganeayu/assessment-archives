@@ -14,7 +14,7 @@ list_all_md_files <- function(path = ".", exclude = "README.md") {
     recursive = TRUE
   )
 
-  setdiff(res, exclude)
+  setdiff(res, file.path(path, exclude))
 
 }
 
