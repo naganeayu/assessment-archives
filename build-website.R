@@ -5,14 +5,16 @@ library(purrr)
 library(glue)
 library(tibble)
 
-list_all_md_files <- function(path = ".") {
+list_all_md_files <- function(path = ".", exclude = "README.md") {
 
-  list.files(
+  res <- list.files(
     path = path,
     pattern = "\\.md$",
     full.names = TRUE,
     recursive = TRUE
   )
+
+  setdiff(res, exclude)
 
 }
 
@@ -42,13 +44,16 @@ create_dir <- function(path = ".", dir) {
 move_md_files <- function(current_path = ".", new_path = "public") {
 
   mds <- list_all_md_files(path = current_path)
-  new_mds <- gsub(current_path, new_path, mds, fixed = TRUE)
+
+  ## this works because it's a subfolder
+  ## but it doesn't generalize well
+  new_mds <- file.path(new_path, mds)
 
   create_dir(current_path, new_path)
 
   sub_dirs <- unique(dirname(new_mds))
-  purrr::walk(sub_dirs, ~ create_dir(path = current_path, dir = .))
 
+  purrr::walk(sub_dirs, ~ create_dir(path = current_path, dir = .))
   purrr::walk2(mds, new_mds, file.copy)
 
 }
