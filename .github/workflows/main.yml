@@ -8,6 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-18.04
+    if: "!contains(github.event.head_commit.message, 'ci-skip')"
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v1
@@ -56,3 +57,13 @@ jobs:
         env:
            BUILD_DIR: public
            GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Commit files to master
+        run: |
+          rm -rf public/
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "[ci-skip] add latest version" -a
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
