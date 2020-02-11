@@ -1,5 +1,6 @@
 # The Carpentries Pre-Workshop Survey
-2020-02-06
+2020-02-11
+
 ----------------
 
 ### Welcome screen 
@@ -103,7 +104,7 @@ If you have any questions about your rights or treatment as a research participa
 
 ### How often do you currently use any of the following?                                                               
 
-#### Statistical analysis programs with a graphical user interface (SPSS, SAS, etc.) 
+#### A specialized software with a point-and-click graphical user interface (e.g., for statistical analysis: SPSS, SAS, ...; for Geospatial analysis: ArcGIS, QGIS, ... ; for Genomics analysis: Geneious, ...) 
 
 - Never 
 - Less than once per year 
