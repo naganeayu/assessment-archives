@@ -23,7 +23,7 @@ jobs:
         with:
           path: ${{ env.R_LIBS_USER }}
           key: ${{ runner.os }}-r-${{ hashFiles('depends.Rds') }}
-          restore-keys: ${{ runner.os }}-r
+          restore-keys: ${{ runner.os }}-r-
       - name: Install system dependencies
         env:
           RHUB_PLATFORM: linux-x86_64-ubuntu-gcc
@@ -39,7 +39,7 @@ jobs:
            -e "readRDS('depends.Rds')$packages" \
            -e "message('list of installed packages: ')"\
            -e "installed.packages()" \
-           -e "message('libpaths:', paste(.libPaths(), collapse=', ')"
+           -e "message('libpaths:', paste(.libPaths(), collapse=', '))"
       - name: Install dependencies
         run: |
           Rscript \
