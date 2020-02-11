@@ -44,7 +44,7 @@ jobs:
         run: |
           Rscript \
             -e "library(remotes)" \
-            -e "update(readRDS('depends.Rds'))"
+            -e "update(remotes::dev_package_deps(dependencies = TRUE))"
       - name: Run Script For Pre-workshop survey
         run: |
           Rscript \
