@@ -31,6 +31,15 @@ jobs:
           Rscript -e "remotes::install_github('r-hub/sysreqs')"
           sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
           sudo -s eval "$sysreqs"
+      - name: inspect dependencies
+        run: |
+          Rscript \
+           -e "library(remotes)" \
+           -e "message('list of dependency packages:')"\
+           -e "readRDS('depends.Rds')$packages" \
+           -e "message('list of installed packages: ')"\
+           -e "installed.packages()" \
+           -e "message('libpaths:', paste(.libPaths(), collapse=', ')"
       - name: Install dependencies
         run: |
           Rscript \
@@ -46,6 +55,16 @@ jobs:
           Rscript \
             -e "source('archive-typeform.R')" \
             -e  "cache_content(get_form('UgVdRQ'), 'post-workshop')"
+      - name: Commit files to master
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *
+          git commit -m "[ci-skip] add latest version"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: Move files to public folder for deployment
         run: |
           Rscript \
@@ -57,14 +76,3 @@ jobs:
         env:
            BUILD_DIR: public
            GH_PAT: ${{ secrets.GH_PAT }}
-      - name: Commit files to master
-        run: |
-          rm -rf public/
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add *
-          git commit -m "[ci-skip] add latest version"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
