@@ -31,15 +31,6 @@ jobs:
           Rscript -e "remotes::install_github('r-hub/sysreqs')"
           sysreqs=$(Rscript -e "cat(sysreqs::sysreq_commands('DESCRIPTION'))")
           sudo -s eval "$sysreqs"
-      - name: inspect dependencies
-        run: |
-          Rscript \
-           -e "library(remotes)" \
-           -e "message('list of dependency packages:')"\
-           -e "readRDS('depends.Rds')$packages" \
-           -e "message('list of installed packages: ')"\
-           -e "installed.packages()" \
-           -e "message('libpaths:', paste(.libPaths(), collapse=', '))"
       - name: Install dependencies
         run: |
           Rscript \
