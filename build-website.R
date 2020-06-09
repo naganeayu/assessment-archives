@@ -117,7 +117,7 @@ generate_archive <- function(archive_data, survey_type, name) {
     path = current$full_path
   )
 
-  list_archive <- archive %>%
+  list_archive <- archives %>%
     dplyr::arrange(dplyr::desc(version)) %>%
     glue::glue_data(
             "- [{ filename }]({ full_path }) ({ version })",
