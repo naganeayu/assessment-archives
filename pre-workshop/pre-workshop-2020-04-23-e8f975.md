@@ -1,5 +1,5 @@
 # The Carpentries Pre-Workshop Survey
-2020-04-25
+2020-04-23
 
 ----------------
 
@@ -389,7 +389,7 @@ If you have any questions about your rights or treatment as a research participa
 
 (long text answer)
 
-### In what country is your workshop being held? For online training, please enter the country you are located in.  *
+### In what country is your workshop being held?  *
 
 - Afghanistan 
 - Åland Islands 
