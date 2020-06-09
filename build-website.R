@@ -140,12 +140,14 @@ generate_index <- function(archive_data, output) {
   body <- tibble::tribble(
     ~survey_type,     ~name,
     "pre-workshop",  "Pre-workshop Survey",
-    "post-workshop", "Post-workshop Survey"
+    "post-workshop", "Post-workshop Survey",
+    "instructor-teaching-online", "Post-workshop Instructor Teaching online"
   ) %>%
     purrr::pmap(function(survey_type, name) {
       generate_archive(
         archive_data = archive_data,
-        survey_type = survey_type, name = name
+        survey_type = survey_type,
+        name = name
       )}
     )
 
