@@ -127,7 +127,8 @@ extract_question <- function(field, level = 1) {
     required = is_required(field),
     title = process_field_title(field$title)
     )
-  } else if (field$type == "short_text" || field$type == "long_text") {
+  } else if (field$type == "short_text" || field$type == "long_text" ||
+               field$type == "number") {
     glue::glue(
       "{header_level} {title} {required}
 
@@ -339,6 +340,10 @@ cache_content <- function(tf, survey, title = get_form_title(tf),
       )
     )
     stable_filename <- file.path(dirname(filename), paste0(survey, ".md"))
+
+    if (!dir.exists(dirname(filename))) {
+      dir.create(dirname(filename))
+    }
 
     out <- make_md_file(tf, title, out = filename)
     file.copy(out, stable_filename, overwrite = TRUE)
