@@ -29,3 +29,15 @@ This repository contains 2 R script files:
 This code is run daily using GitHub actions. If new files are generated, they get deployed on GitHub pages.
 
 The `DESCRIPTION` file makes it easy for the GitHub Action workflow to install all needed packages.
+
+### Adding new surveys to the archive
+
+(using this repository as the working directory)
+
+1. check that
+  `source("archive-typeform.R"); cache_content(get_form("XXXXX"))`
+  runs well locally (new surveys may have new answer types that are not
+  currently handled by the script).
+1. add the survey to the GitHub Actions file (`.github/workflows/main.yml`).
+2. add the details for this new survey in the `generate_index()` function (in
+   the `build-website.R` file).
