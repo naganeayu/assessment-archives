@@ -51,6 +51,11 @@ jobs:
             Rscript \
               -e "source('archive-typeform.R')" \
               -e "cache_content(get_form('aXXn4P'), 'instructor-teaching-online')"
+      - name: Run Script for Long-term survey
+        run: |
+            Rscript \
+              -e "source('archive-typeform.R')" \
+              -e "cache_content(get_form('cUoZrl'), 'long-term')"
       - name: Commit files to master
         run: |
           git config --local user.email "action@github.com"
