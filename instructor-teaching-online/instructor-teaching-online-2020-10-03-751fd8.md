@@ -1,5 +1,5 @@
 # Instructor Online Teaching Survey
-2020-10-24
+2020-10-03
 
 ----------------
 
@@ -70,44 +70,6 @@ If you have any questions about your rights or treatment as a research participa
 - Supporting Instructor (actively participated in planning and hosting with minimal teaching) 
 - Helper 
 - Host 
-
-### *Questions About the Role of Supporting Instructor*  The [Supporting Instructor role](https://carpentries.org/workshop\_faq/#what-is-a-supporting-instructor) is intended for Instructors with less practice teaching Carpentries curricula to offer experience with online workshops. It also ensures that the instructional team consists of several Carpentries-trained participants. The Supporting Instructor role will be assigned to certified Carpentries Instructors who have taught less than three workshops.
-
-#### If you are familiar with the role of *supporting instructor* (either because you have served in that role or because you have taught alongside a supporting instructor), how useful do you find that role?   
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Not at all useful </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Extremely useful </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-   <td style="text-align:center;"> 6 </td>
-  </tr>
-</tbody>
-</table>
-
-#### Please share any thoughts you have on the role of *supporting instructor.*  
-
-(long text answer)
 
 ### Are you a certified Carpentries Instructor?  
 
