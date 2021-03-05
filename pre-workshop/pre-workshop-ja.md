@@ -28,17 +28,13 @@ If you have any questions about your rights or treatment as a research participa
 
 ### Do you consent to taking this survey? *
 
-  
-- yes
-  
-- no
+   - yes
+   - no
 
 ### Are you 18 years of age or above? *
 
-  
-- yes
-  
-- no
+   - yes
+   - no
 
 ### What is the identifier for your workshop? It is in the "YYYY-MM-DD-sitename" format and is used in the URL for the workshop website or the Etherpad you used.  Please copy and paste the workshop identifier into the text box below.  *
 
@@ -423,7 +419,7 @@ If you have any questions about your rights or treatment as a research participa
 - バミューダ
 - ブータン
 - ボリビア
-- Bonaire, Sint Eustatius and Saba
+- ボネール、シント・ユースタティウスおよびサバ
 - ボスニア・ヘルツェゴビナ
 - ボツワナ
 - ブーベ島
@@ -494,7 +490,7 @@ If you have any questions about your rights or treatment as a research participa
 - ガイアナ
 - ハイチ
 - ハード島・マクドナルド諸島
-- Holy See (the)
+- 聖座 (バチカン市国)
 - ホンジュラス
 - 中華人民共和国香港特別行政区
 - ハンガリー
