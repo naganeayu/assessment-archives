@@ -28,13 +28,17 @@ If you have any questions about your rights or treatment as a research participa
 
 ### Do you consent to taking this survey? *
 
-   - yes
-   - no
+  
+- yes
+  
+- no
 
 ### Are you 18 years of age or above? *
 
-   - yes
-   - no
+  
+- yes
+  
+- no
 
 ### What is the identifier for your workshop? It is in the "YYYY-MM-DD-sitename" format and is used in the URL for the workshop website or the Etherpad you used.  Please copy and paste the workshop identifier into the text box below.  *
 
@@ -401,14 +405,14 @@ If you have any questions about your rights or treatment as a research participa
 - アンゴラ
 - アンギラ
 - 南極
-- Antigua and Barbuda 
+- アンティグア・バーブーダ
 - アルゼンチン
 - アルメニア
 - アルバ
 - オーストラリア
 - オーストリア
 - アゼルバイジャン
-- Bahamas (the) 
+- バハマ
 - バーレーン
 - バングラデシュ
 - バルバドス
@@ -418,62 +422,62 @@ If you have any questions about your rights or treatment as a research participa
 - ベナン
 - バミューダ
 - ブータン
-- Bolivia (Plurinational State of) 
-- Bonaire, Sint Eustatius and Saba 
-- Bosnia and Herzegovina 
+- ボリビア
+- Bonaire, Sint Eustatius and Saba
+- ボスニア・ヘルツェゴビナ
 - ボツワナ
 - ブーベ島
 - ブラジル
-- British Indian Ocean Territory (the) 
-- Brunei Darussalam 
+- 英領インド洋地域
+- ブルネイ・ダルサラーム国
 - ブルガリア
 - ブルキナファソ
 - ブルンジ
-- Cabo Verde 
+- カーボベルデ
 - カンボジア
 - カメルーン
 - カナダ
-- Cayman Islands (the) 
-- Central African Republic (the) 
+- ケイマン諸島
+- 中央アフリカ共和国
 - チャド
 - チリ
 - 中国
 - クリスマス島
-- Cocos (Keeling) Islands (the) 
+- ココス(キーリング)諸島
 - コロンビア
-- Comoros (the) 
-- Congo (the Democratic Republic of the) 
-- Congo (the) 
-- Cook Islands (the) 
+- コモロ
+- コンゴ民主共和国
+- コンゴ共和国
+- クック諸島
 - コスタリカ
-- Côte d'Ivoire 
+- コートジボワール
 - クロアチア
 - キューバ
 - キュラソー
 - キプロス
-- Czechia 
+- チェキア
 - デンマーク
 - ジブチ
 - ドミニカ国
-- Dominican Republic (the) 
+- ドミニカ共和国
 - エクアドル
 - エジプト
 - エルサルバドル
 - 赤道ギニア
 - エリトリア
 - エストニア
-- Eswatini 
+- エスワティニ
 - エチオピア
-- Falkland Islands (the) [Malvinas] 
-- Faroe Islands (the) 
+- フォークランド諸島
+- フェロー諸島
 - フィジー
 - フィンランド
 - フランス
 - 仏領ギアナ
 - 仏領ポリネシア
-- French Southern Territories (the) 
+- 仏領極南諸島
 - ガボン
-- Gambia (the) 
+- ガンビア
 - ジョージア
 - ドイツ
 - ガーナ
@@ -489,15 +493,15 @@ If you have any questions about your rights or treatment as a research participa
 - ギニアビサウ
 - ガイアナ
 - ハイチ
-- Heard Island and McDonald Islands 
-- Holy See (the) 
+- ハード島・マクドナルド諸島
+- Holy See (the)
 - ホンジュラス
 - 中華人民共和国香港特別行政区
 - ハンガリー
 - アイスランド
 - インド
 - インドネシア
-- Iran (Islamic Republic of) 
+- イラン
 - イラク
 - アイルランド
 - マン島
@@ -510,11 +514,11 @@ If you have any questions about your rights or treatment as a research participa
 - カザフスタン
 - ケニア
 - キリバス
-- Korea (the Democratic People's Republic of) 
-- Korea (the Republic of) 
+- 朝鮮民主主義人民共和国
+- 大韓民国
 - クウェート
 - キルギス
-- Lao People's Democratic Republic (the) 
+- ラオス人民民主共和国
 - ラトビア
 - レバノン
 - レソト
@@ -523,21 +527,21 @@ If you have any questions about your rights or treatment as a research participa
 - リヒテンシュタイン
 - リトアニア
 - ルクセンブルグ
-- Macao 
+- 中華人民共和国マカオ特別行政区
 - マダガスカル
 - マラウイ
 - マレーシア
 - モルディブ
 - マリ
 - マルタ
-- Marshall Islands (the) 
+- マーシャル諸島
 - マルティニーク
 - モーリタニア
 - モーリシャス
 - マヨット島
 - メキシコ
-- Micronesia (Federated States of) 
-- Moldova (the Republic of) 
+- ミクロネシア連邦
+- モルドバ
 - モナコ
 - モンゴル
 - モンテネグロ
@@ -548,26 +552,26 @@ If you have any questions about your rights or treatment as a research participa
 - ナミビア
 - ナウル
 - ネパール
-- Netherlands (the) 
+- オランダ
 - ニューカレドニア
 - ニュージーランド
 - ニカラグア
-- Niger (the) 
+- ニジェール
 - ナイジェリア
 - ニウエ島
 - ノーフォーク島
-- North Macedonia 
-- Northern Mariana Islands (the) 
+- 北マケドニア
+- 北マリアナ諸島
 - ノルウェー
 - オマーン
 - パキスタン
 - パラオ
-- Palestine, State of 
+- パレスチナ
 - パナマ
 - パプアニューギニア
 - パラグアイ
 - ペルー
-- Philippines (the) 
+- フィリピン
 - ピトケアン諸島
 - ポーランド
 - ポルトガル
@@ -575,74 +579,76 @@ If you have any questions about your rights or treatment as a research participa
 - カタール
 - レユニオン島
 - ルーマニア
-- Russian Federation (the) 
+- ロシア
 - ルワンダ
-- Saint Barthélemy 
-- Saint Helena, Ascension and Tristan da Cunha 
-- Saint Kitts and Nevis 
-- Saint Lucia 
-- Saint Martin (French part) 
-- Saint Pierre and Miquelon 
-- Saint Vincent and the Grenadines 
+- サン・バルテルミー島
+- セント・ヘレナ・アセンションおよびトリスタンダクーニャ
+- セント・クリストファー・ネービス
+- セント・ルシア
+- サン・マルタン(フランス)
+- サン・ピエール島・ミクロン島
+- サント・ビンセント・グレナディーン諸島
 - 米領サモア
 - サンマリノ
-- Sao Tome and Principe 
+- サントメ・プリンシペ
 - サウジアラビア
 - セネガル
 - セルビア
 - セーシェル
 - シエラレオネ
 - シンガポール
-- Sint Maarten (Dutch part) 
+- シント・マールテン(オランダ)
 - スロバキア
 - スロベニア
 - ソロモン諸島
 - ソマリア
 - 南アフリカ
-- South Georgia and the South Sandwich Islands 
+- 南ジョージア島・南サンドイッチ諸島
 - 南スーダン
 - スペイン
 - スリランカ
-- Sudan (the) 
+- スーダン
 - スリナム
-- Svalbard and Jan Mayen 
+- スバールバル諸島・ヤンマイエン島
 - スウェーデン
 - スイス
-- Syrian Arab Republic (the) 
-- Taiwan (Province of China) 
+- シリア・アラブ共和国
+- 台湾
 - タジキスタン
-- Tanzania, the United Republic of 
+- タンザニア連合共和国
 - タイ
 - 東ティモール
 - トーゴ
 - トケラウ
 - トンガ
-- Trinidad and Tobago 
+- トリニダード・トバゴ
 - チュニジア
 - トルコ
 - トルクメニスタン
-- Turks and Caicos Islands (the) 
+- タークス・カイコス諸島
 - ツバル
 - ウガンダ
 - ウクライナ
-- United Arab Emirates (the) 
-- United Kingdom of Great Britain and Northern Ireland (the) 
-- United States Minor Outlying Islands (the) 
-- United States of America (the) 
+- アラブ首長国連邦
+- イギリス
+- 米領太平洋諸島
+- アメリカ合衆国
 - ウルグアイ
 - ウズベキスタン
 - バヌアツ
-- Venezuela (Bolivarian Republic of) 
-- Viet Nam 
-- Virgin Islands (British) 
-- Virgin Islands (U.S.) 
-- Wallis and Futuna 
+- ベネズエラ
+- ベトナム
+- 英領ヴァージン諸島
+- 米領ヴァージン諸島
+- ウォリス・フツナ
 - 西サハラ
 - イエメン
 - ザンビア
 - ジンバブエ
 
-### *Demographic Questions* Thank you very much for participating in this survey.  We appreciate your input, which will help us to create a diverse, inclusive and welcoming event.   The Carpentries seek to promote a scientific computing community that is an inclusive and welcoming environment for all. In order to further this goal, we hope to understand the makeup of the community and the experiences of individuals within it. The data from this survey will help us to assess the diversity of our community.
+### *Demographic Questions* Thank you very much for participating in this survey.  We appreciate your input, which will help 
+us to create a diverse, inclusive and welcoming event.  The Carpentries seek to promote a scientific computing community that is an inclusive and welcoming environment for all. In order to further this goal, we hope to 
+understand the makeup of the community and the experiences of individuals within it. The data from this survey will help us to assess the diversity of our community.
 
 ### To which gender do you most identify? 
 
