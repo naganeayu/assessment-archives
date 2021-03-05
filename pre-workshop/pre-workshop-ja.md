@@ -392,257 +392,259 @@ If you have any questions about your rights or treatment as a research participa
 
 ### In what country is your workshop being held? For online training, please enter the country you are located in.  *
 
-- Afghanistan 
-- Åland Islands 
-- Albania 
-- Algeria 
-- American Samoa 
-- Andorra 
-- Angola 
-- Anguilla 
-- Antarctica 
-- Antigua and Barbuda 
-- Argentina 
-- Armenia 
-- Aruba 
-- Australia 
-- Austria 
-- Azerbaijan 
-- Bahamas (the) 
-- Bahrain 
-- Bangladesh 
-- Barbados 
-- Belarus 
-- Belgium 
-- Belize 
-- Benin 
-- Bermuda 
-- Bhutan 
-- Bolivia (Plurinational State of) 
-- Bonaire, Sint Eustatius and Saba 
-- Bosnia and Herzegovina 
-- Botswana 
-- Bouvet Island 
-- Brazil 
-- British Indian Ocean Territory (the) 
-- Brunei Darussalam 
-- Bulgaria 
-- Burkina Faso 
-- Burundi 
-- Cabo Verde 
-- Cambodia 
-- Cameroon 
-- Canada 
-- Cayman Islands (the) 
-- Central African Republic (the) 
-- Chad 
-- Chile 
-- China 
-- Christmas Island 
-- Cocos (Keeling) Islands (the) 
-- Colombia 
-- Comoros (the) 
-- Congo (the Democratic Republic of the) 
-- Congo (the) 
-- Cook Islands (the) 
-- Costa Rica 
-- Côte d'Ivoire 
-- Croatia 
-- Cuba 
-- Curaçao 
-- Cyprus 
-- Czechia 
-- Denmark 
-- Djibouti 
-- Dominica 
-- Dominican Republic (the) 
-- Ecuador 
-- Egypt 
-- El Salvador 
-- Equatorial Guinea 
-- Eritrea 
-- Estonia 
-- Eswatini 
-- Ethiopia 
-- Falkland Islands (the) [Malvinas] 
-- Faroe Islands (the) 
-- Fiji 
-- Finland 
-- France 
-- French Guiana 
-- French Polynesia 
-- French Southern Territories (the) 
-- Gabon 
-- Gambia (the) 
-- Georgia 
-- Germany 
-- Ghana 
-- Gibraltar 
-- Greece 
-- Greenland 
-- Grenada 
-- Guadeloupe 
-- Guam 
-- Guatemala 
-- Guernsey 
-- Guinea 
-- Guinea-Bissau 
-- Guyana 
-- Haiti 
-- Heard Island and McDonald Islands 
-- Holy See (the) 
-- Honduras 
-- Hong Kong 
-- Hungary 
-- Iceland 
-- India 
-- Indonesia 
-- Iran (Islamic Republic of) 
-- Iraq 
-- Ireland 
-- Isle of Man 
-- Israel 
-- Italy 
-- Jamaica 
-- Japan 
-- Jersey 
-- Jordan 
-- Kazakhstan 
-- Kenya 
-- Kiribati 
-- Korea (the Democratic People's Republic of) 
-- Korea (the Republic of) 
-- Kuwait 
-- Kyrgyzstan 
-- Lao People's Democratic Republic (the) 
-- Latvia 
-- Lebanon 
-- Lesotho 
-- Liberia 
-- Libya 
-- Liechtenstein 
-- Lithuania 
-- Luxembourg 
-- Macao 
-- Madagascar 
-- Malawi 
-- Malaysia 
-- Maldives 
-- Mali 
-- Malta 
-- Marshall Islands (the) 
-- Martinique 
-- Mauritania 
-- Mauritius 
-- Mayotte 
-- Mexico 
-- Micronesia (Federated States of) 
-- Moldova (the Republic of) 
-- Monaco 
-- Mongolia 
-- Montenegro 
-- Montserrat 
-- Morocco 
-- Mozambique 
-- Myanmar 
-- Namibia 
-- Nauru 
-- Nepal 
-- Netherlands (the) 
-- New Caledonia 
-- New Zealand 
-- Nicaragua 
-- Niger (the) 
-- Nigeria 
-- Niue 
-- Norfolk Island 
-- North Macedonia 
-- Northern Mariana Islands (the) 
-- Norway 
-- Oman 
-- Pakistan 
-- Palau 
-- Palestine, State of 
-- Panama 
-- Papua New Guinea 
-- Paraguay 
-- Peru 
-- Philippines (the) 
-- Pitcairn 
-- Poland 
-- Portugal 
-- Puerto Rico 
-- Qatar 
-- Réunion 
-- Romania 
-- Russian Federation (the) 
-- Rwanda 
-- Saint Barthélemy 
-- Saint Helena, Ascension and Tristan da Cunha 
-- Saint Kitts and Nevis 
-- Saint Lucia 
-- Saint Martin (French part) 
-- Saint Pierre and Miquelon 
-- Saint Vincent and the Grenadines 
-- Samoa 
-- San Marino 
-- Sao Tome and Principe 
-- Saudi Arabia 
-- Senegal 
-- Serbia 
-- Seychelles 
-- Sierra Leone 
-- Singapore 
-- Sint Maarten (Dutch part) 
-- Slovakia 
-- Slovenia 
-- Solomon Islands 
-- Somalia 
-- South Africa 
-- South Georgia and the South Sandwich Islands 
-- South Sudan 
-- Spain 
-- Sri Lanka 
-- Sudan (the) 
-- Suriname 
-- Svalbard and Jan Mayen 
-- Sweden 
-- Switzerland 
-- Syrian Arab Republic (the) 
-- Taiwan (Province of China) 
-- Tajikistan 
-- Tanzania, the United Republic of 
-- Thailand 
-- Timor-Leste 
-- Togo 
-- Tokelau 
-- Tonga 
-- Trinidad and Tobago 
-- Tunisia 
-- Turkey 
-- Turkmenistan 
-- Turks and Caicos Islands (the) 
-- Tuvalu 
-- Uganda 
-- Ukraine 
-- United Arab Emirates (the) 
-- United Kingdom of Great Britain and Northern Ireland (the) 
-- United States Minor Outlying Islands (the) 
-- United States of America (the) 
-- Uruguay 
-- Uzbekistan 
-- Vanuatu 
-- Venezuela (Bolivarian Republic of) 
-- Viet Nam 
-- Virgin Islands (British) 
-- Virgin Islands (U.S.) 
-- Wallis and Futuna 
-- Western Sahara* 
-- Yemen 
-- Zambia 
-- Zimbabwe 
+- アフガニスタン
+- オーランド諸島
+- アルバニア
+- アルジェリア
+- 米領サモア
+- アンドラ
+- アンゴラ
+- アンギラ
+- 南極
+- アンティグア・バーブーダ
+- アルゼンチン
+- アルメニア
+- アルバ
+- オーストラリア
+- オーストリア
+- アゼルバイジャン
+- バハマ
+- バーレーン
+- バングラデシュ
+- バルバドス
+- ベラルーシ
+- ベルギー
+- ベリーズ
+- ベナン
+- バミューダ
+- ブータン
+- ボリビア
+- ボネール、シント・ユースタティウスおよびサバ
+- ボスニア・ヘルツェゴビナ
+- ボツワナ
+- ブーベ島
+- ブラジル
+- 英領インド洋地域
+- ブルネイ・ダルサラーム国
+- ブルガリア
+- ブルキナファソ
+- ブルンジ
+- カーボベルデ
+- カンボジア
+- カメルーン
+- カナダ
+- ケイマン諸島
+- 中央アフリカ共和国
+- チャド
+- チリ
+- 中国
+- クリスマス島
+- ココス(キーリング)諸島
+- コロンビア
+- コモロ
+- コンゴ民主共和国
+- コンゴ共和国
+- クック諸島
+- コスタリカ
+- コートジボワール
+- クロアチア
+- キューバ
+- キュラソー
+- キプロス
+- チェキア
+- デンマーク
+- ジブチ
+- ドミニカ国
+- ドミニカ共和国
+- エクアドル
+- エジプト
+- エルサルバドル
+- 赤道ギニア
+- エリトリア
+- エストニア
+- エスワティニ
+- エチオピア
+- フォークランド諸島
+- フェロー諸島
+- フィジー
+- フィンランド
+- フランス
+- 仏領ギアナ
+- 仏領ポリネシア
+- 仏領極南諸島
+- ガボン
+- ガンビア
+- ジョージア
+- ドイツ
+- ガーナ
+- ジブラルタル
+- ギリシャ
+- グリーンランド
+- グレナダ
+- グアドループ
+- グアム
+- グアテマラ
+- ガーンジー
+- ギニア
+- ギニアビサウ
+- ガイアナ
+- ハイチ
+- ハード島・マクドナルド諸島
+- 聖座 (バチカン市国)
+- ホンジュラス
+- 中華人民共和国香港特別行政区
+- ハンガリー
+- アイスランド
+- インド
+- インドネシア
+- イラン
+- イラク
+- アイルランド
+- マン島
+- イスラエル
+- イタリア
+- ジャマイカ
+- 日本
+- ジャージー
+- ヨルダン
+- カザフスタン
+- ケニア
+- キリバス
+- 朝鮮民主主義人民共和国
+- 大韓民国
+- クウェート
+- キルギス
+- ラオス人民民主共和国
+- ラトビア
+- レバノン
+- レソト
+- リベリア
+- リビア
+- リヒテンシュタイン
+- リトアニア
+- ルクセンブルグ
+- 中華人民共和国マカオ特別行政区
+- マダガスカル
+- マラウイ
+- マレーシア
+- モルディブ
+- マリ
+- マルタ
+- マーシャル諸島
+- マルティニーク
+- モーリタニア
+- モーリシャス
+- マヨット島
+- メキシコ
+- ミクロネシア連邦
+- モルドバ
+- モナコ
+- モンゴル
+- モンテネグロ
+- モントセラト
+- モロッコ
+- モザンビーク
+- ミャンマー
+- ナミビア
+- ナウル
+- ネパール
+- オランダ
+- ニューカレドニア
+- ニュージーランド
+- ニカラグア
+- ニジェール
+- ナイジェリア
+- ニウエ島
+- ノーフォーク島
+- 北マケドニア
+- 北マリアナ諸島
+- ノルウェー
+- オマーン
+- パキスタン
+- パラオ
+- パレスチナ
+- パナマ
+- パプアニューギニア
+- パラグアイ
+- ペルー
+- フィリピン
+- ピトケアン諸島
+- ポーランド
+- ポルトガル
+- プエルトリコ
+- カタール
+- レユニオン島
+- ルーマニア
+- ロシア
+- ルワンダ
+- サン・バルテルミー島
+- セント・ヘレナ・アセンションおよびトリスタンダクーニャ
+- セント・クリストファー・ネービス
+- セント・ルシア
+- サン・マルタン(フランス)
+- サン・ピエール島・ミクロン島
+- サント・ビンセント・グレナディーン諸島
+- 米領サモア
+- サンマリノ
+- サントメ・プリンシペ
+- サウジアラビア
+- セネガル
+- セルビア
+- セーシェル
+- シエラレオネ
+- シンガポール
+- シント・マールテン(オランダ)
+- スロバキア
+- スロベニア
+- ソロモン諸島
+- ソマリア
+- 南アフリカ
+- 南ジョージア島・南サンドイッチ諸島
+- 南スーダン
+- スペイン
+- スリランカ
+- スーダン
+- スリナム
+- スバールバル諸島・ヤンマイエン島
+- スウェーデン
+- スイス
+- シリア・アラブ共和国
+- 台湾
+- タジキスタン
+- タンザニア連合共和国
+- タイ
+- 東ティモール
+- トーゴ
+- トケラウ
+- トンガ
+- トリニダード・トバゴ
+- チュニジア
+- トルコ
+- トルクメニスタン
+- タークス・カイコス諸島
+- ツバル
+- ウガンダ
+- ウクライナ
+- アラブ首長国連邦
+- イギリス
+- 米領太平洋諸島
+- アメリカ合衆国
+- ウルグアイ
+- ウズベキスタン
+- バヌアツ
+- ベネズエラ
+- ベトナム
+- 英領ヴァージン諸島
+- 米領ヴァージン諸島
+- ウォリス・フツナ
+- 西サハラ
+- イエメン
+- ザンビア
+- ジンバブエ
 
-### *Demographic Questions* Thank you very much for participating in this survey.  We appreciate your input, which will help us to create a diverse, inclusive and welcoming event.   The Carpentries seek to promote a scientific computing community that is an inclusive and welcoming environment for all. In order to further this goal, we hope to understand the makeup of the community and the experiences of individuals within it. The data from this survey will help us to assess the diversity of our community.
+### *Demographic Questions* Thank you very much for participating in this survey.  We appreciate your input, which will help 
+us to create a diverse, inclusive and welcoming event.  The Carpentries seek to promote a scientific computing community that is an inclusive and welcoming environment for all. In order to further this goal, we hope to 
+understand the makeup of the community and the experiences of individuals within it. The data from this survey will help us to assess the diversity of our community.
 
 ### To which gender do you most identify? 
 
