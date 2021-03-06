@@ -4,8 +4,8 @@
 ----------------
 
 ### ようこそ 
-*調査研究への参加に対する同意*
-*Carpentriesワークショップ後アンケート*
+*Carpentriesワークショップ後調査*
+*研究への参加に対する同意*
 
 *ご案内*
 Carpentriesのアソシエイト・ディレクターのエリン・ベッカーです。この度は、ワークショップの効果を理解するための調査研究に参加していただき、ありがとうございます。ワークショップの前後に、ワークショップの内容に関連したスキルや視点についての簡単なアンケートに答えていただきます。調査は16の質問からなり、5～10分程度で完了します。
@@ -503,10 +503,10 @@ Carpentriesのアソシエイト・ディレクターのエリン・ベッカー
 ### ありがとうございました
 アンケートにご協力いただきありがとうございました！皆様のご意見は、ワークショップの改善に役立てさせていただきます。
 
-もし、ワークショップ中にCarpentriesの[行動規範](https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html) に反する行為を見かけた場合は、[このフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl\_6rkVtBIVWbb9YNOHQP\_XaANDClmVNu0zs-w/viewform)で報告してください(詳細は[報告ガイドライン](https://docs.carpentries.org/topic\_folders/policies/incident-reporting.html)をご覧ください)。
+もし、ワークショップ中にCarpentriesの[行動規範](https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html) に反する行為を見かけた場合は、[このフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl\_6rkVtBIVWbb9YNOHQP\_XaANDClmVNu0zs-w/viewform)で報告してください（詳細は[報告ガイドライン](https://docs.carpentries.org/topic\_folders/policies/incident-reporting.html)をご覧ください）。
 
 このワークショップのフィードバックをカーペントリーズ・コア・チームと共有したい方は、team@carpentries.org までメールでご連絡ください。
 
-ぜひ、私たちの[ブログ](https://carpentries.org/blog)をご覧ください。また、Twitter [@thecarpentries](https://twitter.com/thecarpentries)をフォローしてください。
+ぜひ、私たちの[ブログ](https://carpentries.org/blog)をご覧ください。また、Twitterで[@thecarpentries](https://twitter.com/thecarpentries)をフォローしてください。
 
 長期調査では、Carpetoriesのワークショップを修了してから、6ヶ月から1年後の学習者への影響を測定しています。調査に参加したい方は、下の「参加する」ボタンをクリックしてください。
