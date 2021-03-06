@@ -3,455 +3,454 @@
 
 ----------------
 
-### Welcome screen 
+### ようこそ 
 *Consent to Participate in Research*
 *The Carpentries Post-Workshop Survey*
 
 *Introduction and Purpose*
-My name is Erin Becker and I am the Associate Director of The Carpentries. Thank you for volunteering to take part in our research study, which is about understanding the effectiveness of our workshops. To participate in the study, you will complete a short survey about your skills and perspectives related to our workshop content before and after your workshop. The survey is 16 questions long and will take approximately 5-10 minutes to complete.
+Carpentriesのアソシエイト・ディレクターのエリン・ベッカーです。この度は、ワークショップの効果を理解するための調査研究に参加していただき、ありがとうございます。ワークショップの前後に、ワークショップの内容に関連したスキルや視点についての簡単なアンケートに答えていただきます。調査は16の質問からなり、5～10分程度で完了します。
 
 *Confidentiality*
-Your responses will be recorded anonymously.  You will be asked to create a unique identifier. If you completed a pre-workshop survey, please use the same unique identifier.  Additionally, these  anonymous and aggregate responses will be shared with workshop Hosts, Instructors, Helpers, and The Carpentries Core Team for the purpose of understanding the learners' experiences, improving future workshops and providing in-depth feedback to allow Instructors to reflect their teaching strategies.
+回答は匿名で記録され、固有のIDを作成するように求められます。ワークショップの事前アンケートに回答した場合は、同じIDを使用してください。 なお、これらの匿名および集計された回答は、学習者の経験を理解し、今後のワークショップを改善し、インストラクターが教育計画に反映するための詳細なフィードバックを提供する目的で、ワークショップのホスト、インストラクター、ヘルパー、カーペントリーズ・コア・チームと共有されます。
 
 
 *Risks and Benefits*
-There are no direct risks or benefits to you from filling out this survey, and no compensation. We hope to use these results to improve workshops for future learners.
+このアンケートにご協力いただくことによる直接的なリスクやメリットはなく、報酬もありません。この結果をもとに、今後の学習者のため、ワークショップの改善に役立てたいと考えています。
 
 *Consent*
-You are not required to take this survey to participate in our workshop. You may quit the survey at any time or skip any item other than those required to correctly sort your responses. 
-
+このアンケートに回答することは、ワークショップに参加する条件ではありません。アンケートはいつ終了しても構いませんし、回答できる項目以外はスキップしていただいても構いません。
 If you have any questions about the study, please contact Erin Becker, Associate Director of The Carpentries at ebecker@carpentries.org or eribecker@ucdavis.edu or Megan Welsh, Assistant Professor of Education at the University of California, Davis at megwelsh@ucdavis.edu.
+この研究についてご質問がある場合は、Carpentriesのアソシエイト・ディレクターであるエリン・ベッカー（ebecker@carpentries.org または eribecker@ucdavis.edu）か、またはカリフォルニア大学デービス校の教育学助教授であるミーガン・ウェルシュ（megwelsh@ucdavis.edu）までご連絡ください。
 
-If you have any questions about your rights or treatment as a research participant in this study or would like to provide input about this research, please contact the University of California at Davis’ Institutional Review Board (IRB) at (916) 703-9151, IRBAdmin@ucdmc.ucdavis.edu, or 2921 Stockton Blvd, Suite 1400, Room 1429, Sacramento, CA 95817.
-
+本研究の参加者としての権利や待遇について質問がある場合、または本研究について意見を提供したい場合は、カリフォルニア大学デービス校のInstitutional Review Board（IRB）（電話：(916) 703-9151、IRBAdmin@ucdmc.ucdavis.edu、または2921 Stockton Blvd, Suite 1400, Room 1429, Sacramento, CA 95817）までご連絡ください。
 -----------
 
-### Do you consent to taking this survey? *
+### このアンケートを受けることに同意しますか？ *
 
-   - yes
-   - no
+   - はい
+   - いいえ
 
-### Are you 18 years of age or above? *
+### 18歳以上の方ですか？ *
 
-   - yes
-   - no
+   - はい
+   - いいえ
 
-### What is the identifier for your workshop? It is in the YYYY-MM-DD-sitename format and is used in the URL for the workshop website or the Etherpad you used.  Please copy and paste the workshop id into the text box below.  *
-
-(short text answer)
-
-### Please enter a unique identifier as follows: Number of siblings (as numeric) + First two letters of the city you were born in (lowercase) + First three letters of your current street (lowercase).  
+### ワークショップのIDは何ですか？YYYY-MM-DD-sitename形式で、ワークショップのウェブサイトまたは使用したEtherpadのURLに使用されています。 以下のテキストボックスにワークショップIDをコピーして貼り付けてください。 *
 
 (short text answer)
 
-### The next set of questions is optional. If you prefer not to answer a question, please click the down arrow on your keyboard, or scroll down to navigate to the next question.   Please rate your level of agreement with the following statements. 
-
-#### Having access to the original, raw data is important to be able to repeat an analysis.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### I can write a small program, script, or macro to address a problem in my own work.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### I know how to search for answers to my technical questions online.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### While working on a programming project, if I got stuck, I can find ways of overcoming the problem.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### I am confident in my ability to make use of programming software to work with data.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### Using a programming language (like R or Python) can make my analyses easier to reproduce.   
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### Using a programming language (like R or Python) can make me more efficient at working with data.   
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-### I felt comfortable learning in this workshop environment.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-### I can immediately apply what I learned at this workshop.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-### Do you have accessibility requirements?  
-
-- No 
-- Yes 
-
-### Were there any accessibility issues that affected your ability to participate in this workshop?  
-
-- No 
-- Yes 
-
-### Please describe what the accessibility issues were. 
+### 固有のIDを以下のように入力してください。兄弟・姉妹の人数（半角数字）+ 生まれた街の最初の2文字（小文字）＋現在住んでいる通りの最初の3文字 (小文字)
 
 (short text answer)
 
-### Please list the major strengths of this workshop.  
+### 次の質問は任意です。質問に答えたくない場合は、キーボードの下向き矢印をクリックするか、下にスクロールして次の質問に移動してください。  次の記述に対してどの程度同意するかを評価してください。
+
+#### オリジナルのままのデータにアクセスできることは、分析を繰り返すために重要である。 
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### 小さなプログラムやスクリプト、マクロを書いて、自分の作業での問題を解決することができる。
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### 技術的な質問の答えをオンラインで探す方法が分かる。
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### プログラミングをしていて行き詰ったときに、克服する方法を見つけることができる。
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### プログラミングソフトを活用してデータを扱う作業に自信がある。 
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### プログラミング言語（RやPythonなど）を使うことで、自分の分析をより再現しやすくすることができる。
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### プログラミング言語（RやPythonなど）を使用することで、データの処理をより効率的に行うことができる。
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+### このワークショップの環境で安心して学ぶことができた。 
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+### このワークショップで学んだことをすぐに活かすことができる。  
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+### アクセシビリティに関する要件はありますか？
+
+- いいえ 
+- はい 
+
+### このワークショップへの参加に影響を与えたアクセシビリティの問題はありましたか？
+
+- いいえ 
+- はい 
+
+### アクセシビリティの問題はどのようなものだったのかを説明してください。 
 
 (short text answer)
 
-### Please list the ways the workshop could be improved. 
+### 本ワークショップの主な強みを挙げてください。  
 
 (short text answer)
 
-### Please rate your level of agreement with the following statements. 
-
-#### I was able to get clear answers to my questions from the instructors.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### The instructors were enthusiastic about the workshop.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### I felt comfortable interacting with the instructors.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-#### The instructors were knowledgeable about the material being taught.  
-<table class="table" style="margin-left: auto; margin-right: auto;">
- <thead>
-  <tr>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-   <th style="text-align:center;">  </th>
-  </tr>
- </thead>
-<tbody>
-  <tr>
-   <td style="text-align:center;"> Strongly Disagree </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Neutral </td>
-   <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Strongly Agree </td>
-  </tr>
-  <tr>
-   <td style="text-align:center;"> 1 </td>
-   <td style="text-align:center;"> 2 </td>
-   <td style="text-align:center;"> 3 </td>
-   <td style="text-align:center;"> 4 </td>
-   <td style="text-align:center;"> 5 </td>
-  </tr>
-</tbody>
-</table>
-
-### Please provide an example of how an instructor or helper affected your learning experience.  
+### ワークショップの改善点を挙げてください。 
 
 (short text answer)
 
-### How likely are you to recommend this workshop to a friend or colleague?   
+### 次の記述に対し、どの程度同意できるかを評価してください。
+
+#### 自分の質問に対する講師の回答は明確だった。
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### 講師はワークショップに熱意を持っていた。  
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### 気楽に講師とやり取りすることができた。  
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+#### 講師は、教える対象について豊富な知識を持っていた。  
+<table class="table" style="margin-left: auto; margin-right: auto;">
+ <thead>
+  <tr>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+   <th style="text-align:center;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:center;"> 全くそう思わない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> どちらでもない </td>
+   <td style="text-align:center;">  </td>
+   <td style="text-align:center;"> 強くそう思う </td>
+  </tr>
+  <tr>
+   <td style="text-align:center;"> 1 </td>
+   <td style="text-align:center;"> 2 </td>
+   <td style="text-align:center;"> 3 </td>
+   <td style="text-align:center;"> 4 </td>
+   <td style="text-align:center;"> 5 </td>
+  </tr>
+</tbody>
+</table>
+
+### インストラクターやヘルパーがあなたの学習経験にどのような影響を与えたか、例を挙げてください。  
+
+(short text answer)
+
+### このワークショップを友人や同僚に勧める可能性はどのくらいでしょうか？  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -470,7 +469,7 @@ If you have any questions about your rights or treatment as a research participa
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:center;"> Don't recommend </td>
+   <td style="text-align:center;"> 薦めない </td>
    <td style="text-align:center;">  </td>
    <td style="text-align:center;">  </td>
    <td style="text-align:center;">  </td>
@@ -480,7 +479,7 @@ If you have any questions about your rights or treatment as a research participa
    <td style="text-align:center;">  </td>
    <td style="text-align:center;">  </td>
    <td style="text-align:center;">  </td>
-   <td style="text-align:center;"> Highly recommend </td>
+   <td style="text-align:center;"> 強く薦める </td>
   </tr>
   <tr>
    <td style="text-align:center;"> 0 </td>
@@ -500,13 +499,13 @@ If you have any questions about your rights or treatment as a research participa
 
 -----------
 
-### Thank you screen 
-Thank you for completing this survey! Your input is used to improve our workshops.
+### ありがとうございました
+アンケートにご協力いただきありがとうございました！皆様のご意見は、ワークショップの改善に役立てさせていただきます。
 
-If you believe someone violated The Carpentries [Code of Conduct](https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html) during the workshop,  we ask that you report it using [this form](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl\_6rkVtBIVWbb9YNOHQP\_XaANDClmVNu0zs-w/viewform) (see our [reporting guidelines](https://docs.carpentries.org/topic\_folders/policies/incident-reporting.html) for more information).
+もし、ワークショップ中にCarpentriesの[行動規範](https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html) に反する行為を見かけた場合は、[このフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl\_6rkVtBIVWbb9YNOHQP\_XaANDClmVNu0zs-w/viewform)で報告してください(詳細は[報告ガイドライン](https://docs.carpentries.org/topic\_folders/policies/incident-reporting.html)をご覧ください)。
 
-If you would like to share feedback from this workshop with The Carpentries Core Team, please email us at team@carpentries.org.
+このワークショップのフィードバックをカーペントリーズ・コア・チームと共有したい方は、team@carpentries.org までメールでご連絡ください。
 
-Be sure to check out our [blog](https://carpentries.org/blog), and follow [@thecarpentries](https://twitter.com/thecarpentries) on Twitter.
+ぜひ、私たちの[ブログ](https://carpentries.org/blog)をご覧ください。また、ツイッター [@thecarpentries](https://twitter.com/thecarpentries)をフォローしてください。
 
-Our long-term survey measures the impact our workshops are having on learners 6 months to a year after completing a Carpentries workshop. If you want to participate please click on the "Participate" button below.
+長期調査では、Carpetoriesのワークショップを修了してから、6ヶ月から1年後の学習者への影響を測定しています。調査に参加したい方は、下の「参加する」ボタンをクリックしてください。
