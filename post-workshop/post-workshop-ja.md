@@ -1,28 +1,29 @@
-# The Carpentries Post-Workshop Survey
+# Carpentriesワークショップ後アンケート
 2020-12-08
 
 ----------------
 
 ### ようこそ 
-*Consent to Participate in Research*
-*The Carpentries Post-Workshop Survey*
+*調査研究への参加に対する同意*
+*Carpentriesワークショップ後アンケート*
 
-*Introduction and Purpose*
+*ご案内*
 Carpentriesのアソシエイト・ディレクターのエリン・ベッカーです。この度は、ワークショップの効果を理解するための調査研究に参加していただき、ありがとうございます。ワークショップの前後に、ワークショップの内容に関連したスキルや視点についての簡単なアンケートに答えていただきます。調査は16の質問からなり、5～10分程度で完了します。
 
-*Confidentiality*
+*機密保持*
 回答は匿名で記録され、固有のIDを作成するように求められます。ワークショップの事前アンケートに回答した場合は、同じIDを使用してください。 なお、これらの匿名および集計された回答は、学習者の経験を理解し、今後のワークショップを改善し、インストラクターが教育計画に反映するための詳細なフィードバックを提供する目的で、ワークショップのホスト、インストラクター、ヘルパー、カーペントリーズ・コア・チームと共有されます。
 
 
-*Risks and Benefits*
+*リスクとメリット*
 このアンケートにご協力いただくことによる直接的なリスクやメリットはなく、報酬もありません。この結果をもとに、今後の学習者のため、ワークショップの改善に役立てたいと考えています。
 
-*Consent*
+*承諾*
 このアンケートに回答することは、ワークショップに参加する条件ではありません。アンケートはいつ終了しても構いませんし、回答できる項目以外はスキップしていただいても構いません。
-If you have any questions about the study, please contact Erin Becker, Associate Director of The Carpentries at ebecker@carpentries.org or eribecker@ucdavis.edu or Megan Welsh, Assistant Professor of Education at the University of California, Davis at megwelsh@ucdavis.edu.
+
 この研究についてご質問がある場合は、Carpentriesのアソシエイト・ディレクターであるエリン・ベッカー（ebecker@carpentries.org または eribecker@ucdavis.edu）か、またはカリフォルニア大学デービス校の教育学助教授であるミーガン・ウェルシュ（megwelsh@ucdavis.edu）までご連絡ください。
 
 本研究の参加者としての権利や待遇について質問がある場合、または本研究について意見を提供したい場合は、カリフォルニア大学デービス校のInstitutional Review Board（IRB）（電話：(916) 703-9151、IRBAdmin@ucdmc.ucdavis.edu、または2921 Stockton Blvd, Suite 1400, Room 1429, Sacramento, CA 95817）までご連絡ください。
+
 -----------
 
 ### このアンケートを受けることに同意しますか？ *
@@ -506,6 +507,6 @@ If you have any questions about the study, please contact Erin Becker, Associate
 
 このワークショップのフィードバックをカーペントリーズ・コア・チームと共有したい方は、team@carpentries.org までメールでご連絡ください。
 
-ぜひ、私たちの[ブログ](https://carpentries.org/blog)をご覧ください。また、ツイッター [@thecarpentries](https://twitter.com/thecarpentries)をフォローしてください。
+ぜひ、私たちの[ブログ](https://carpentries.org/blog)をご覧ください。また、Twitter [@thecarpentries](https://twitter.com/thecarpentries)をフォローしてください。
 
 長期調査では、Carpetoriesのワークショップを修了してから、6ヶ月から1年後の学習者への影響を測定しています。調査に参加したい方は、下の「参加する」ボタンをクリックしてください。
