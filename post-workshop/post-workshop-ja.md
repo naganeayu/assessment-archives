@@ -503,7 +503,7 @@ Carpentriesのアソシエイト・ディレクターのエリン・ベッカー
 ### ありがとうございました
 アンケートにご協力いただきありがとうございました！皆様のご意見は、ワークショップの改善に役立てさせていただきます。
 
-もし、ワークショップ中にCarpentriesの[行動規範](https://docs.carpentries.org/topic\_folders/policies/code-of-conduct.html) に反する行為を見かけた場合は、[このフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl\_6rkVtBIVWbb9YNOHQP\_XaANDClmVNu0zs-w/viewform)で報告してください（詳細は[報告ガイドライン](https://docs.carpentries.org/topic\_folders/policies/incident-reporting.html)をご覧ください）。
+もし、ワークショップ中にCarpentriesの[行動規範](https://carpentries-coc.readthedocs.io/ja/latest/topic_folders/policies/code-of-conduct.html) に反する行為を見かけた場合は、[このフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdi0wbplgdydl\_6rkVtBIVWbb9YNOHQP\_XaANDClmVNu0zs-w/viewform)で報告してください（詳細は[報告ガイドライン](https://carpentries-coc.readthedocs.io/ja/latest/topic_folders/policies/incident-reporting.html)をご覧ください）。
 
 このワークショップのフィードバックをカーペントリーズ・コア・チームと共有したい方は、team@carpentries.org までメールでご連絡ください。
 
