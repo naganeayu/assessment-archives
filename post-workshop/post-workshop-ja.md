@@ -133,7 +133,7 @@ Carpentriesのアソシエイト・ディレクターのエリン・ベッカー
 </tbody>
 </table>
 
-#### プログラミングをしていて行き詰ったときに、克服する方法を見つけることができる。
+#### プログラミングをしていて行き詰ったときに、その問題を解決する手法を見つけることが出来る。
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
