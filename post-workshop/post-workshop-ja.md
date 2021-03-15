@@ -75,7 +75,7 @@ Carpentriesのアソシエイト・ディレクターのエリン・ベッカー
 </tbody>
 </table>
 
-#### 小さなプログラムやスクリプト、マクロを書いて、自分の作業での問題を解決することができる。
+#### 仕事上、小さなプログラム、スクリプトもしくはマクロを問題解決のために作成することが出来る。
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
