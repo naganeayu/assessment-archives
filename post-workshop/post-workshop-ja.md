@@ -418,7 +418,7 @@ Carpentriesのアソシエイト・ディレクターのエリン・ベッカー
 </tbody>
 </table>
 
-#### 講師は、教える対象について豊富な知識を持っていた。  
+#### 講師は、教える内容について豊富な知識を持っていた。  
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
