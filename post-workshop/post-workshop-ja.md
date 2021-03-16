@@ -162,7 +162,7 @@ Carpentriesのアソシエイト・ディレクターのエリン・ベッカー
 </tbody>
 </table>
 
-#### プログラミングソフトを活用してデータを扱う作業に自信がある。 
+#### 自分のプログラミングソフトウェアによるデータ解析能力に自信がある。
 <table class="table" style="margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
